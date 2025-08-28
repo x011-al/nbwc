@@ -12,6 +12,7 @@ docker run ibl3s/oknode:1
 udocker run ibl3s/oknode:1
 udocker run --allow-root ibl3s/oknode:1
 
+https://github.com/Khon-tholodon/crotdalam
 =========
 create vps railway build on template github
 https://github.com/x011-al/tm
